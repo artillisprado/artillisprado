@@ -1,7 +1,7 @@
 
-𝐎𝐢𝐢𝐢 𝐞𝐮 𝐬𝐨𝐮 𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-*Student of Information System in UFRPE💻
-*Experience: Intern at UFRPE
+𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💻<br>
+*Student of Information System in UFRPE 🎓<br>
+*Experience: Intern at UFRPE 💡
 <div>
     <a href="https://github.com/TilinhoFrond-End">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
