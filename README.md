@@ -1,5 +1,5 @@
 
-𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💻<br>
+𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 21 years old 💻<br>
 *Student of Information System in UFRPE 🎓<br>
 *Experience: Intern at UFRPE 💡
 <div>
