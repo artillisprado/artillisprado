@@ -1,6 +1,6 @@
 
 𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 𝟐𝟏 𝒚𝒆𝒂𝒓𝒔 𝒐𝒍𝒅 💻<br>
-*Student of Information System in UFRPE 🎓<br>
+*Student of Information System in UFRPE 🎓<br>.
 *Experience: Intern at UFRPE 💡
 <div>
     <a href="https://github.com/TilinhoFrond-End">
