@@ -6,7 +6,7 @@
     <a href="https://github.com/TilinhoFrond-End">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TilinhoFrond-End&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
+</div>.
   
 <div display="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
