@@ -3,7 +3,7 @@
 *Student of Information System in UFRPE 🎓<br>
 *Experience: Intern at UFRPE 💡
 
-Linguagens e Ferramentas:<br>
+𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐞 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬:<br>
 <div display="display: inline_block">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
