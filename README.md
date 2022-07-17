@@ -2,12 +2,8 @@
 𝐀𝐑𝐓𝐈𝐋𝐋𝐈𝐒 𝐏𝐑𝐀𝐃𝐎, 𝟐𝟏 𝒚𝒆𝒂𝒓𝒔 𝒐𝒍𝒅 💻<br>
 *Student of Information System in UFRPE 🎓<br>
 *Experience: Intern at UFRPE 💡
-<div>
-    <a href="https://github.com/TilinhoFrond-End">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TilinhoFrond-End&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
-  
+
+Linguagens e Ferramentas: <br>
 <div display="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -21,6 +17,12 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />   
+</div>
+
+<div>
+    <a href="https://github.com/TilinhoFrond-End">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TilinhoFrond-End&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
   
   ##
