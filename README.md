@@ -24,9 +24,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TilinhoFrond-End&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-  
   ##
-  
 <div>
     <a href="https://www.linkedin.com/in/artillis-prado-10111415b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100004310716521" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
