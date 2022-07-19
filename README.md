@@ -20,9 +20,9 @@
 </div> <br>
 
 <div>
-    <a href="https://github.com/TilinhoFrond-End">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TilinhoFrond-End&show_icons=true&theme=highcontrast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TilinhoFrond-End&layout=compact&langs_count=16&theme=highcontrast"/>
+    <a href="https://github.com/artillisprado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artillisprado&show_icons=true&theme=highcontrast">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artillisprado&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
     
   ##
@@ -35,7 +35,7 @@
 
 </div>
 <!--
-**TilinhoFrond-End/TilinhoFrond-End** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**artillisprado/artillisprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
